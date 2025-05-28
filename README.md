@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/shubhamumadi/shubhamumadi/blob/main/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f76322f4334453132415147435744496b715a5f7832412f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f61727469636c652d636f7.gif)
 <h1 align="center">Hi 👋, I'm Shubham Umadi</h1>
 <h3 align="center">A passionate Algo programmer from India</h3>
 
